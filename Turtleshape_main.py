@@ -11,3 +11,5 @@ def draw_shape(num_sides):
 for shape in range(3,11):
     tim.color(random.choice(colours))
     draw_shape(shape)
+screen=t.Screen()
+screen.exitonclick()#
