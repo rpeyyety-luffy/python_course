@@ -1,5 +1,6 @@
 #making a spirograph
 import turtle as t
+
 import random
 tim=t.Turtle()
 t.colormode(255)
